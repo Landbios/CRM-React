@@ -1,0 +1,35 @@
+{
+  "clientes": [
+    {
+      "nombre": "Samantha",
+      "empresa": "Codigo ",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Es la mujer mas hermosa del universo",
+      "id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Danny",
+      "empresa": "Danny.com",
+      "email": "Operez@mitsoftware.com",
+      "telefono": "1212121",
+      "notas": "Danny morillo danny morillon",
+      "id": 7
+    },
+    {
+      "nombre": "Orlandiño",
+      "empresa": "Mitsoftware",
+      "email": "wirahoshimachi@gmail.com",
+      "telefono": "04246798762",
+      "notas": "Quiere mucho a samantha, se alegra que ella este bien y quiere verla el sabado",
+      "id": 8
+    }
+  ]
+}
